@@ -1,7 +1,7 @@
 
 #include <iostream>
 using namespace std;
-
+// TC = O(n2)
 void swap(int arr[],int i, int j)
 {
     int temp=arr[i];

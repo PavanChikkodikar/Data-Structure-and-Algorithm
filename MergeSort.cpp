@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+// TC = O(n logn)
 void Merge(int arr[],int l,int mid,int r)
 {
     int n1=mid-l+1;

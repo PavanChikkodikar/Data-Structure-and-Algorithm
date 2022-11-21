@@ -1,6 +1,6 @@
 #include <iostream>    
 using namespace std;  
-
+// TC = O(log n)
 int BinarySearch(int a[],int n,int key)
 {
     int s=0;

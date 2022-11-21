@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+// TC = O(n2)
 int main() 
 {
     int n;
